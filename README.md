@@ -1,6 +1,6 @@
 # 🔢 #100Devs Push Project001: Calculator
 
-### Goal: Build a Simple Calculator using JS OOP best practices
+### Goal: Build a Simple Calculator using JS OOP best practices add
 
 ### What it should look like:
 
